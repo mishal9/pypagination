@@ -1,15 +1,25 @@
 Metadata-Version: 2.1
 Name: pypagination
-Version: 0.0.1
+Version: 0.0.2
 Summary: A small library to paginate through json objects
 Home-page: https://github.com/mishal9/pypagination/issues
 Author: Mishal Shah
 Author-email: mshah31@asu.edu
 License: UNKNOWN
-Description: UNKNOWN
+Description: # BRIEF
+        
+        The paginate function accepts the following parameters:
+        
+        1. `totalItems (required)` - the total number of items to be paged
+        2. `currentPage (optional)` - the current active page, defaults to the first page
+        3. `pageSize (optional)` - the number of items per page, defaults to 10
+        4. `maxPages (optional)` - the maximum number of page navigation links to display, defaults to 10
+        
+        The output of the paginate function is an object containing all the information needed to display the current page of items in the view and the page navigation links.
 Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
+Requires-Python: >=2.6, !=3.0.*, !=3.1.*, !=3.2.*, <4
 Description-Content-Type: text/markdown

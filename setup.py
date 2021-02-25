@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pypagination",
-    version="0.0.1",
+    version="0.0.3",
     author="Mishal Shah",
     author_email="mshah31@asu.edu",
     description="A small library to paginate through json objects",

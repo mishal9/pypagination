@@ -56,6 +56,3 @@ def paginate(totalItems, currentPage=1, pageSize=10, maxPages=10):
     res['pages'] = pages
 
     return json.dumps(res)
-
-
-#print(paginate(2, 1))
