@@ -1,0 +1,7 @@
+README.md
+setup.py
+pypagination/__init__.py
+pypagination.egg-info/PKG-INFO
+pypagination.egg-info/SOURCES.txt
+pypagination.egg-info/dependency_links.txt
+pypagination.egg-info/top_level.txt

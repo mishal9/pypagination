@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pypagination
+Version: 0.0.1
+Summary: A small library to paginate through json objects
+Home-page: https://github.com/mishal9/pypagination/issues
+Author: Mishal Shah
+Author-email: mshah31@asu.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

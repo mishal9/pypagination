@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small library to paginate through json objects",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mishal9/PyPaginate/issues",
+    url="https://github.com/mishal9/pypagination/issues",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
